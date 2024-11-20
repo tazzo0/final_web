@@ -1,0 +1,66 @@
+@media (max-width: 481px) {
+  /* header styles */
+  header {
+    padding: 28px 20px;
+  }
+  .img_guitar {
+    width: 39.87px;
+    height: 39.86px;
+  }
+  .header_butt {
+    width: 32px;
+    height: 32px;
+  }
+  .header_sec {
+    gap: 16px;
+  }
+  /* main title style */
+  .main_title {
+    font-size: 24px;
+  }
+  .span_title {
+    font-size: 24px;
+  }
+
+  /* card sec styles */
+
+  .cards_sec {
+    padding: 32px 0 32px 20px;
+    gap: 40px;
+  }
+  .card_sec_title {
+    font-size: 24px;
+    line-height: 32px;
+   
+  }
+
+  /* footer styles */
+
+  footer {
+    flex-wrap: wrap;
+    row-gap: 40px;
+    padding: 32px 0;
+    text-align: center;
+    
+  }
+  .footer_sec {
+    flex: 1 1 100%;
+    align-items: center;
+
+  }
+  
+  .for_social{
+    justify-content: center;
+  }
+  
+}
+
+@media (max-width: 321px) {
+  /* header styles */
+  header {
+    padding-inline: 8px;
+  }
+  .cards_sec {
+    padding-left: 8px;
+  }
+}

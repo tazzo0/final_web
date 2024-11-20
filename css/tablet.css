@@ -1,0 +1,18 @@
+@media (max-width: 745px) {
+ /* header styles */
+ header{
+    padding-inline: 24px;
+  }
+/* card sec styles */
+
+.cards_sec{
+  padding:48px 0 36px 24px;
+}
+
+/* footer styles */
+footer{
+ 
+  gap: 40px;
+}
+
+}

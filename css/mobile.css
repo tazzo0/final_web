@@ -52,6 +52,26 @@
   .for_social{
     justify-content: center;
   }
+
+  /* catalog page styles */
+
+  .cat_sec_1{
+    padding: 32px 20px;
+   }
+
+   .filter1{
+    display: none;
+   }
+   .for_selling{
+    display: none;
+   }
+   .selling_butt{
+    width: 36px;
+    height: 32px;
+    align-items: center;
+    justify-content: center;
+   }
+  
   
 }
 
@@ -63,4 +83,11 @@
   .cards_sec {
     padding-left: 8px;
   }
+/* catalog page styles */
+
+.cat_sec_1{
+  padding-inline: 8px;
+ }
+
+
 }

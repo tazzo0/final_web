@@ -15,4 +15,9 @@ footer{
   gap: 40px;
 }
 
+ /* catalog page styles */
+.cat_sec_1{
+  padding: 48px 24px;
+ }
+
 }

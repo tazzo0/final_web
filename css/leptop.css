@@ -34,12 +34,30 @@
     flex: 1 0 272px;
   }
 
-/* catalog page styles */
+  /* catalog page styles */
 
-.cat_sec_1{
-  padding-inline: 31px;
-}
+  .cat_sec_1 {
+    padding-inline: 31px;
+  }
+  /* card styles */
+  .card7,
+  .card8,
+  .card9 {
+    display: none;
+  }
 
+  .cat_card {
+    width: 48.5%;
+  }
 
-
+  /* contact page styles */
+  .contact_us {
+    padding-inline: 32px;
+  }
+  .form_sec {
+    width: 506px;
+  }
+  .location_sec {
+    width: 506px;
+  }
 }

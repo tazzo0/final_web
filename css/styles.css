@@ -283,6 +283,8 @@ header {
 
 .for_card_zoom {
   overflow: hidden;
+ border-radius: 10px;
+
 }
 
 .card_img {
